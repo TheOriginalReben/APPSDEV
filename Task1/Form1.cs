@@ -37,22 +37,25 @@ namespace Task1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            if (!string.IsNullOrWhiteSpace(namebox.Text) && !namelist.Items.Contains(namebox.Text) && tools.isValid(namebox.Text)) {
-                if (!string.IsNullOrWhiteSpace(amountbox.Text))
-                {
-                    idlist.Items.Add(id);
-                    namelist.Items.Add(namebox.Text);
-                    stocklist.Items.Add(amountbox.Text);
-                    namebox.Clear();
-                    amountbox.ResetText();
-                    id++;
-                }
+            if (string.IsNullOrWhiteSpace(namebox.Text))
+                MessageBox.Show("Error! The name should not be empty!!!");
+            else
+            if (namelist.Items.Contains(namebox.Text))
+                MessageBox.Show("Error! You cannot add that item. Item already exists!");
+            else
+            if (string.IsNullOrWhiteSpace(amountbox.Text))
+            {
+                MessageBox.Show("Error! The item amount should exceed 0.");
             }
             else
             {
-                Console.WriteLine("Error!");
+                idlist.Items.Add(id);
+                namelist.Items.Add(namebox.Text);
+                stocklist.Items.Add(amountbox.Text);
+                namebox.Clear();
+                amountbox.ResetText();
+                id++;
             }
-                
         }
 
         private void namebox_TextChanged(object sender, EventArgs e)
