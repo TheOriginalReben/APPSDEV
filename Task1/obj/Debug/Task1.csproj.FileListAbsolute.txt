@@ -18,3 +18,13 @@ C:\Users\xx511\Source\Repos\TheOriginalReben\APPSDEV\Task1\obj\Debug\Task1.cspro
 C:\Users\xx511\Source\Repos\TheOriginalReben\APPSDEV\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
 C:\Users\xx511\Source\Repos\TheOriginalReben\APPSDEV\Task1\obj\Debug\Task1.exe
 C:\Users\xx511\Source\Repos\TheOriginalReben\APPSDEV\Task1\obj\Debug\Task1.pdb
+C:\Users\xx511\source\repos\APPSDEVT1\Task1\bin\Debug\Task1.exe.config
+C:\Users\xx511\source\repos\APPSDEVT1\Task1\bin\Debug\Task1.exe
+C:\Users\xx511\source\repos\APPSDEVT1\Task1\bin\Debug\Task1.pdb
+C:\Users\xx511\source\repos\APPSDEVT1\Task1\obj\Debug\Task1.csproj.AssemblyReference.cache
+C:\Users\xx511\source\repos\APPSDEVT1\Task1\obj\Debug\Task1.Form1.resources
+C:\Users\xx511\source\repos\APPSDEVT1\Task1\obj\Debug\Task1.Properties.Resources.resources
+C:\Users\xx511\source\repos\APPSDEVT1\Task1\obj\Debug\Task1.csproj.GenerateResource.cache
+C:\Users\xx511\source\repos\APPSDEVT1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\xx511\source\repos\APPSDEVT1\Task1\obj\Debug\Task1.exe
+C:\Users\xx511\source\repos\APPSDEVT1\Task1\obj\Debug\Task1.pdb
